@@ -1,0 +1,7 @@
+Host            ec2-50-17-90-177.compute-1.amazonaws.com
+Database        d6rq69vbeoh0rl
+User            imtvqoilqbhjpi
+Port            5432
+Password        15d6945ac56891d22e91a48235165ba7f6bd5ea699ae7bf03bcd303e58b08d17
+URI             postgres://imtvqoilqbhjpi:15d6945ac56891d22e91a48235165ba7f6bd5ea699ae7bf03bcd303e58b08d17@ec2-50-17-90-177.compute-1.amazonaws.com:5432/d6rq69vbeoh0rl
+Heroku CLI      heroku pg:psql postgresql-symmetrical-80260 --app gansach-project1
